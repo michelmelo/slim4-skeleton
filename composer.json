@@ -36,7 +36,7 @@
             "email": "jerfeson_guerreiro@hotmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "config": {
         "process-timeout": 0,
         "sort-packages": true
